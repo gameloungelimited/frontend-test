@@ -1,8 +1,6 @@
 # Game Lounge frontend test
 
-> Created by Victor Lerenius
-> Version 1.2.2
-> Updated 2019-09-05
+> Version 1.2.2 | Updated 2019-09-05 | Created by Victor Lerenius
 
 ## Task
 Create a responsive toggle menu using data from json file.
