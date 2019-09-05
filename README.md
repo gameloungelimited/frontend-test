@@ -4,9 +4,9 @@
 
 ## Task
 Create a responsive toggle menu using data from json file.
-[ ] Menu is read from json
-[ ] Page and menu is responsive
-[ ] Menu can be toggled (click to show/hide submenu)
+- Menu is read from json
+- Page and menu is responsive
+- Menu can be toggled (click to show/hide submenu)
 
 ### Expected time
 This task is expected to take 1-3 hours depending on experience.
